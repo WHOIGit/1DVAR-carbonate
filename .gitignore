@@ -1,0 +1,6 @@
+*.[oa]
+*.mod
+*~
+*.out
+*.pdf
+.DS_Store

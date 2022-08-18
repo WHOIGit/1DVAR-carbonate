@@ -1,0 +1,29 @@
+&driver_io_nml
+        
+        homedir='/vortexfs1/home/ilima/1DVAR/HOT2002_MB2/output'
+        datdir='/vortexfs1/home/ilima/1DVAR/HOT2002_MB2/forcing',
+        ecopar_fname='eco_params.in'
+        adjpar_fname='adj_params.in'
+	optpar_fname='opt_params.in'
+        nsite=1
+	dat_prefix_glob(1) = 'HOT2002'
+!       dat_prefix_glob(1) = 'HOT1989'
+!	dat_prefix_glob(1) = 'HOT1990'
+!	dat_prefix_glob(1) = 'HOT1991'
+!	dat_prefix_glob(2) = 'HOT1992'
+!	dat_prefix_glob(3) = 'HOT1993'
+!	dat_prefix_glob(4) = 'HOT1994'
+!	dat_prefix_glob(5) = 'HOT1995'
+!	dat_prefix_glob(6) = 'HOT1996'
+!	dat_prefix_glob(7) = 'HOT1997'
+!	dat_prefix_glob(8) = 'HOT1998'
+!	dat_prefix_glob(9) = 'HOT1999'
+!	dat_prefix_glob(10) = 'HOT2000'
+!	dat_prefix_glob(11) = 'HOT2001'
+!	dat_prefix_glob(12) = 'HOT2002'
+!	dat_prefix_glob(13) = 'HOT2003'
+!	dat_prefix_glob(14) = 'HOT2004'
+!	dat_prefix_glob(15) = 'HOT2005'
+!	dat_prefix_glob(18) = 'AS'
+!	dat_prefix_glob(19) = 'EqPac'
+/

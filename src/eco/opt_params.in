@@ -1,0 +1,7 @@
+! NEWUOA parameters, if different from defaults, are 
+! specified here
+&opt_parms_nml
+         MAXFUN=25000
+!         RHOBEG=0.5
+         RHOEND=0.005
+/

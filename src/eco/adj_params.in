@@ -1,0 +1,9 @@
+! adjoint/optimization parameters, if different from defaults, are 
+! specified here
+&adjoint_parms_nml
+!	df1=10
+!	dxmin=1.e-4
+!	epsg=1.e-5
+	niter=250
+!	nsim=500
+/
